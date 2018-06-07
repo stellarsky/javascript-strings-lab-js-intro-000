@@ -1,6 +1,5 @@
-strings defines `greeting`:
 
-var greeting = "";
+var greeting = "Hello everyone!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
