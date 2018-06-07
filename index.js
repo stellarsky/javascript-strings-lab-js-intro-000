@@ -1,3 +1,5 @@
+strings defines `greeting`:
+
 var greeting = "";
 
 var specialGuest = "Neil deGrasse Tyson"
